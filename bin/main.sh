@@ -3,8 +3,8 @@
 # script for generating files needed to quickly visualize multiple genetic contexts using gggenomes 
 # need seq-gc (https://github.com/thackl/seq-scripts/bin)
 # need cluster-ids (https://github.com/thackl/seq-scripts/bin)
-module load Perl
-conda activate kairos1
+#module load Perl
+#conda activate kairos
 # Default values
 fasta_file=""
 cov_id="0.7"
