@@ -7,7 +7,7 @@ optional scripts for annotation against mobileOG-db using diamond
 
 uses modified scripts from https://github.com/thackl/seq-scripts
 
-uses perl, mmseqs, prodigal
+uses perl, mmseqs, prodigal, minimap2
 
 note, some steps are not optimized, not recommended for large sequence datasets
 
